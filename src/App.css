@@ -1,0 +1,14 @@
+canvas {
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(120, 224, 255);
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.mainContent {
+  position: absolute;
+  top: 47%;
+  left: 35%;
+  /* transform: translate(-16%, -50%); */
+}
